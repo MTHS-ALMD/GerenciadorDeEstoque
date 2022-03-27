@@ -1,1 +1,1 @@
-Gerenciador de estoque feito na linguagem C
+Gerenciador de estoque feito em C
